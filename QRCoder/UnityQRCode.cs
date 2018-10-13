@@ -1,8 +1,10 @@
 ﻿using System.Collections.Generic;
-using UnityEngine;
+//using UnityEngine;
 
 namespace QRCoder
 {
+    //No longer supporting Unity QR Codes
+    /*
     public class UnityQRCode : AbstractQRCode
     {
         /// <summary>
@@ -67,4 +69,5 @@ namespace QRCoder
             return brush.ToArray();
         }
     }
+    */
 }
